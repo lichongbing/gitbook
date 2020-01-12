@@ -1,5 +1,11 @@
 {
     "plugins": [
-        "highlight"
+        "highlight",
+        "sql-table",
+        "copy-code",
+        "comment",
+        "flow",
+        "image-zoom",
+        "sequence"
     ]
 }
